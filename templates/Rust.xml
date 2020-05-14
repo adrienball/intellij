@@ -2,6 +2,5 @@
   <template name="pd" value="println!(&quot;$EXPRESSION_COPY$ = {:?}&quot;, $EXPRESSION$);" description="debug println! value" toReformat="true" toShortenFQNames="true">
     <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="EXPRESSION_COPY" expression="EXPRESSION" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
