@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="WORKSPACE" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE-APACHE" type="PLAIN_TEXT" />
       <mapping pattern="__version__" type="PLAIN_TEXT" />
